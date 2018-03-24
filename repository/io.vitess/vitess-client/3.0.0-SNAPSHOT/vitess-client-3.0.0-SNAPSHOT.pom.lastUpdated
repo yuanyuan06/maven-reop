@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 24 21:34:51 CST 2018
+https\://artifacts.alfresco.com/nexus/content/repositories/activiti-snapshots/.error=
+@default-jboss-http\://repository.jboss.com/maven2/.lastUpdated=1521898485390
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact io.vitess\:vitess-client\:pom\:3.0.0-SNAPSHOT from/to oschina (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net
+https\://github.com/benjaliu/loxia2-repo/raw/master/releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1521898464279
+http\://repository.jboss.com/maven2/.error=Could not transfer artifact io.vitess\:vitess-client\:pom\:3.0.0-SNAPSHOT from/to jboss (http\://repository.jboss.com/maven2)\: Connect to repository.jboss.com\:80 [repository.jboss.com/209.132.182.97] failed\: Connection timed out\: connect
+https\://github.com/benjaliu/loxia2-repo/raw/master/releases/.lastUpdated=1521898489993
+http\://itcentral.baozun.cn\:8080/nexus/content/groups/public/.error=Could not transfer artifact io.vitess\:vitess-client\:pom\:3.0.0-SNAPSHOT from/to baozun-public (http\://itcentral.baozun.cn\:8080/nexus/content/groups/public)\: itcentral.baozun.cn
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://github.com/yuanyuan06/maven-reop/raw/master/repository/.lastUpdated=1521898491559
+https\://github.com/yuanyuan06/maven-reop/raw/master/repository/.error=
+@default-oschina-http\://maven.oschina.net/content/groups/public/.lastUpdated=1521898464381
+https\://artifacts.alfresco.com/nexus/content/repositories/activiti-snapshots/.lastUpdated=1521898464197
+@default-baozun-public-http\://itcentral.baozun.cn\:8080/nexus/content/groups/public/.lastUpdated=1521898485529
